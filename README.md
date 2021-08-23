@@ -1,2 +1,2 @@
 # UserForms_Excel_VBA
-User Form is created viewing different sheets of an excel workbook.
+User Form is created for viewing different sheets of an excel workbook.
